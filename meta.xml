@@ -1,0 +1,12 @@
+<meta>
+<script src="client.lua" type="client"/>
+<script src="server.lua" type="server" />
+<script src="gui_c.lua" type="client"/>
+<script src="gui_util.lua" type="client"/>
+
+<script src="colorpicker/colorpicker.lua" type="client"/>
+<file src="colorpicker/alpha.png"/>
+<file src="colorpicker/palette.png"/>
+<script src="util.lua" type="client" />
+	<script src="util_server.lua" type="server" />
+</meta>

@@ -1,0 +1,5 @@
+fileDelete("client.lua")
+fileDelete("gui_c.lua")
+fileDelete("gui_util.lua")
+fileDelete("util.lua")
+fileDelete("protect_c.lua")
